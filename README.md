@@ -1,12 +1,18 @@
-# React + Vite
+# Projeto de Lista de Tarefas com React.js e Firebase Firestore
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto é uma aplicação de lista de tarefas (To-Do List) desenvolvida com React.js e integrada ao Firebase Firestore para operações de CRUD (Criar, Ler, Atualizar e Deletar).
 
-Currently, two official plugins are available:
+## Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Adicionar novas tarefas
+- Listar todas as tarefas
+- Editar tarefas existentes
+- Remover tarefas
 
-## Expanding the ESLint configuration
+## Pré-requisitos
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Node.js instalado
+- Conta no Firebase
+- Projeto criado no Firebase com o Firestore habilitado
+<br><br><br>
+<video src='./src/assets/captura-de-tela.mp4' width=500 controll/>
