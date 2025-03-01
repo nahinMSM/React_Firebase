@@ -13,6 +13,9 @@ Este projeto é uma aplicação de lista de tarefas (To-Do List) desenvolvida co
 
 - Node.js instalado
 - Conta no Firebase
-- Projeto criado no Firebase com o Firestore habilitado
-<br><br><br>
-<video src='./src/assets/captura-de-tela.mp4' width=500 controll/>
+- Projeto criado no Firebase com o Firestore habilitado<br>
+##
+
+<img title="captura de tela" src="./src/assets/captura_de_tela_gif.gif/">
+
+### [Link do projeto](https://react-firebase-listem.netlify.app/)
